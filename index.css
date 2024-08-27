@@ -1,0 +1,22 @@
+body{
+    background-image: url(img/images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    color: aliceblue;
+    margin: 12px;
+    padding-top: 15px;
+    
+}
+.MUSICFLIX{
+    border-bottom: solid;
+    border-color: rebeccapurple;
+    color: aqua;
+}
+
+a{
+    color: aliceblue;
+}
+
+
+
